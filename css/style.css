@@ -117,4 +117,22 @@ span {
     margin-right: 75px;
 }
 
-
+/**********Footer************/
+footer {
+background-color: rgb(6, 30, 39);
+height: 175px;
+text-align: center;
+}
+footer h3 {
+    font-family: 'Lobster', cursive;
+    color: rgba(255, 255, 255, 0.774);
+    padding-top: 45px;
+    margin-bottom: 20px;
+}
+footer span {
+    color: #ff5959;
+}
+footer p {
+    color: rgba(255, 255, 255, 0.774);
+    font-size: 13px;
+}
