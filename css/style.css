@@ -6,6 +6,7 @@ body {
   margin: 0;
   background-color: #e9d3d371;
   box-sizing: border-box;
+  font-family: "Lato", sans-serif;
 }
 
 /********** header tag ************/
@@ -26,8 +27,9 @@ a {
   font-family: "Lato", sans-serif;
 }
 p {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.7;
+  text-align: justify;
 }
 
 .container {
@@ -70,6 +72,9 @@ span {
 .half-width img {
   margin: 50px 0 0 30px;
   width: 95%;
+}
+blockquote {
+  font-size: 20px;
 }
 /********** Area 1 ************/
 .area1 h2 {
@@ -125,12 +130,12 @@ text-align: center;
 }
 footer h3 {
     font-family: 'Lobster', cursive;
-    color: rgba(255, 255, 255, 0.774);
+    color: rgba(255, 255, 255, 0.863);
     padding-top: 45px;
     margin-bottom: 20px;
 }
 footer span {
-    color: #ff5959;
+    color: #f10000da;
 }
 footer p {
     color: rgba(255, 255, 255, 0.774);
