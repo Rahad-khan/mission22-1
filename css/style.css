@@ -1,0 +1,67 @@
+/* font-family: 'Lato', sans-serif; --- for paragraph 
+font-family: 'PT Serif', serif; ----- for h tag
+font-family: 'Qwitcher Grypen', cursive; --- for footer*/
+
+body {
+  margin: 0;
+  background-color: #e9d3d371;
+}
+
+/********** header tag ************/
+h1,
+h2,
+h3,
+h4 {
+  font-family: "PT Serif", serif;
+}
+p,
+a {
+  font-family: "Lato", sans-serif;
+}
+p {
+  font-size: 20px;
+  line-height: 1.7;
+}
+h1 {
+  font-size: 60px;
+}
+.container {
+  width: 80%;
+  margin: 80px auto;
+}
+
+/********** Link button ************/
+a {
+  padding: 13px 28px;
+  background-color: #ff5959;
+  text-decoration: none;
+  border-radius: 5px;
+  color: #fff;
+}
+/********** Stay Focused on Mission 2022 ************/
+.area h1 {
+  width: 80%;
+  border-left: 5px solid #ff5959;
+  padding-left: 20px;
+}
+.area p {
+  margin-bottom: 30px;
+}
+.starter-1 div {
+  margin-top: 100px;
+  width: 120%;
+}
+span {
+  color: #ffad5a;
+}
+section {
+  display: flex;
+}
+.half-width {
+  width: 40%;
+  margin: 0 auto;
+}
+.half-width img {
+  margin: 50px 0 0 30px;
+  width: 95%;
+}
