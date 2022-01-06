@@ -18,6 +18,9 @@ h4 {
 h2 {
   font-size: 45px;
 }
+h3 {
+    font-size: 35px;
+}
 p,
 a {
   font-family: "Lato", sans-serif;
@@ -93,4 +96,18 @@ span {
 #tr3 {
     background-color: rgba(0, 255, 0, 0.082);
     margin-left: 15px;
+}
+/********** Area 2 ************/
+.coder {
+    width: 32%;
+}
+.coder img {
+    width: 100%;
+}
+.coder1 {
+    width: 68%;
+    margin-left: 70px;
+}
+.coder1 p{
+    margin-bottom: 30px;
 }
